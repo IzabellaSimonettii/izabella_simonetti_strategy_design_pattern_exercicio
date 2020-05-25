@@ -1,0 +1,1 @@
+# izabella_simonetti_strategy_design_pattern_exercicio
